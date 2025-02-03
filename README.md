@@ -1,4 +1,3 @@
-# goit-de-hw-07
 
 <!-- mkdir -p ./dags ./logs ./plugins ./config
 echo -e "AIRFLOW_UID=$(id -u)" > .env
@@ -6,8 +5,6 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 docker compose up airflow-init
 
 docker compose up -->
-
-# Домашнє завдання: Apache Airflow
 
 ## Опис завдання
 Це домашнє завдання включає реалізацію DAG у Apache Airflow для роботи з MySQL, логіку розгалуження, затримки виконання та використання сенсора. 
